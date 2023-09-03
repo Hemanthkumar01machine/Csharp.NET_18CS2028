@@ -1,0 +1,16 @@
+C:\C# .NET\Ex4\E4\E4\bin\Debug\E4.exe.config
+C:\C# .NET\Ex4\E4\E4\bin\Debug\E4.exe
+C:\C# .NET\Ex4\E4\E4\bin\Debug\E4.pdb
+C:\C# .NET\Ex4\E4\E4\obj\Debug\E4.csproj.AssemblyReference.cache
+C:\C# .NET\Ex4\E4\E4\obj\Debug\E4.csproj.SuggestedBindingRedirects.cache
+C:\C# .NET\Ex4\E4\E4\obj\Debug\E4.csproj.CoreCompileInputs.cache
+C:\C# .NET\Ex4\E4\E4\obj\Debug\E4.exe
+C:\C# .NET\Ex4\E4\E4\obj\Debug\E4.pdb
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\bin\Debug\E4.exe.config
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\bin\Debug\E4.exe
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\bin\Debug\E4.pdb
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\obj\Debug\E4.csproj.AssemblyReference.cache
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\obj\Debug\E4.csproj.SuggestedBindingRedirects.cache
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\obj\Debug\E4.csproj.CoreCompileInputs.cache
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\obj\Debug\E4.exe
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex4\E4\obj\Debug\E4.pdb
