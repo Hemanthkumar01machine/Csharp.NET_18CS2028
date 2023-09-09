@@ -1,0 +1,8 @@
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\bin\Debug\Ex5.exe.config
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\bin\Debug\Ex5.exe
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\bin\Debug\Ex5.pdb
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\obj\Debug\Ex5.csproj.SuggestedBindingRedirects.cache
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\obj\Debug\Ex5.exe
+E:\Academic\2k23-2k24\Odd Sem\18CS2028 C# .NET Lab\Ex5\Ex5\obj\Debug\Ex5.pdb
