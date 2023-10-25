@@ -48,12 +48,10 @@ namespace Ex5
             C.Matrix_display();
         }
 
-        public delegate float Cone_volume_Delegate(int radius, int height);
-        public delegate bool palindrome_delegate(int num);
         public delegate void Matrix_delegate(Matrix A ,Matrix B);
         static void Main(string[] args)
         {
-            Cone_volume_Delegate cone_volume_expression = (int radius, int height) => ((1 / 2) * (22 / 7) * (float) Math.Pow(radius, 2) * height);
+            var cone_volume_expression = (int radius, int height) => ((1 / 2) * (22 / 7) * (float)Math.Pow(radius, 2) * height);
             Console.WriteLine("Enter Dimensions of the Cone");
             Console.Write("Radius: ");
             int r = Convert.ToInt32(Console.ReadLine());
@@ -61,7 +59,7 @@ namespace Ex5
             int h = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Volume of the Cone = "+cone_volume_expression(r,h));
 
-            palindrome_delegate palindrome_expression = (int num) =>
+            var palindrome_expression = (int num) =>
             {
                 int copy = num;
                 int reversed = 0;
